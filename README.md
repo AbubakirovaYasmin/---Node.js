@@ -29,16 +29,16 @@
 
 ```
 # Скачайте проект
-git clone https://github.com/xDesh4ka/hello-devops.git
+`git clone https://github.com/xDesh4ka/hello-devops.git`
 
 # Перейдите в директорию с приложением
-cd hello-devops
+`cd hello-devops`
 
 # Установите все зависимости
-npm install
+`npm install`
 
 # Запустите сервер (режим разработки)
-npm run dev
+`npm run dev`
 
 ```
 
